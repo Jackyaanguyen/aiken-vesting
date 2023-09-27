@@ -1,0 +1,13 @@
+# Aiken compilation artifacts
+artifacts/
+# Aiken's project working directory
+build/
+# Aiken's default documentation export
+docs/
+# Address and private key
+owner.addr
+owner.sk
+beneficiary.addr
+beneficiary.sk
+# environment variables
+.env
